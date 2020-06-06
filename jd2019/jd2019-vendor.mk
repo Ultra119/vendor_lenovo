@@ -190,7 +190,7 @@ PRODUCT_PACKAGES += \
     WfdService \
     PowerOffAlarm \
     QtiTelephonyService \
-    CarrierSettings \
+    CarrierConfig \
     ims \
     qcrilmsgtunnel \
     WfdCommon
