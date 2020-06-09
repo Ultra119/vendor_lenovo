@@ -126,5 +126,5 @@ dex_import {
 dex_import {	
 	name: "qcom.fmradio",	
 	owner: "lenovo",	
-	jars: ["proprietary/framework/qcom.fmradio.jar"],
+	jars: ["proprietary/framework/qcom.fmradio.xml"],
 }
