@@ -122,3 +122,9 @@ dex_import {
 	owner: "lenovo",	
 	jars: ["proprietary/framework/UxPerformance.jar"],
 }
+
+dex_import {	
+	name: "qcom.fmradio",	
+	owner: "lenovo",	
+	jars: ["proprietary/framework/qcom.fmradio.jar"],
+}
